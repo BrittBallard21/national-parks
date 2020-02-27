@@ -1,25 +1,48 @@
-import React from 'react';
-import logo from './logo.svg';
+import React,{useState} from 'react';
 import './App.css';
+import { Switch, Route, Redirect } from 'react-router-dom';
+import GoogleMap from './Components/GoogleMap';
+import InitalState from './Context/InitialState';
+import Reducer from './Context/reducers';
+import ParksApi from './Components/ParksData';
+
+import {StateProvider} from './Context/Context';
+import ParkInformation from './Components/ParkInformation';
+import {BrowserRouter} from 'react-router-dom';
+import Navbar from './Components/Navbar';
+import Campgrounds from './Components/Campgrounds';
+import Events from './Components/Events';
+import VisitorCenters from './Components/VisitorCenters';
+
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+  
+  const [clickedPark, setClickedPark] = useState ("Acadia National Park");
+
+  const Home = (
+    <div >
+        <h1 style={{color:"#DDDDDF"}}>United States National Parks</h1>
+        <h3 style={{color:"#DDDDDF"}}>Explore the National Parks and learn about some of the greatest places to adventure.</h3>
+        <GoogleMap clickedPark = {clickedPark} setClickedPark={setClickedPark}/>
     </div>
+  )
+
+  return (
+    <StateProvider initialState={InitalState} reducer= {Reducer}>
+      <div className="App">
+        <ParksApi />
+        <BrowserRouter basename = {`${process.env.PUBLIC_URL}`}>
+        <Navbar  clickedPark={clickedPark} />
+        <Switch>
+            <Route exact path="/" component={Home} />
+            <Route exact path="/park-information/:id" render={(renderProps) => <ParkInformation {...renderProps} />} />
+            <Route path="/park-information/:id/campgrounds" render={(renderProps) => <Campgrounds {...renderProps} />} />
+            <Route path="/park-information/:id/events" render={(renderProps) => <Events {...renderProps} />} />
+            <Route path="/park-information/:id/visitor-info" render={(renderProps) => <VisitorCenters {...renderProps} />} />
+        </Switch>
+        </BrowserRouter>
+      </div>
+    </StateProvider>
   );
 }
 

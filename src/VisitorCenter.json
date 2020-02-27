@@ -1,0 +1,507 @@
+{
+    "total": "585",
+    "data": [
+        {
+            "latLong": "{lat:36.1629146, lng:-82.8295419}",
+            "description": "Begin your visit to the Andrew Johnson National Historic Site at the Visitor Center. Here you will receive orientation to the other parts of the park, in addition to general information, brochures, and directions. The Visitor Center houses the site's 13 1/2 minute film \"Defender of the Constitution,\" the Presidential museum, Andrew Johnson's original Tailor Shop, and the Eastern National bookstore.",
+            "parkCode": "anjo",
+            "id": "66",
+            "directionsInfo": "GPS\nThe GPS setting for Andrew Johnson NHS may be listed as 121 Monument Avenue, which is the park HQ building in the National Cemetery. Use 101 North College Street, Greeneville, TN for the visitor Center.\n\nPlane\nThe closest airport is the Tri-Cities Regional Airport, 43 miles NE of Greeneville. From the airport, take I-81 South to exit 36 and follow the signs to Greeneville.\n\nCar\nFrom I-81S take exit 36 to Rt. 172 south to Greeneville. \nFrom I-81N take exit 23 to Rt. 11E north to Greeneville.",
+            "directionsUrl": "",
+            "url": "",
+            "name": "Andrew Johnson NHS Visitor Center"
+        },
+        {
+            "latLong": "{lat:39.4741577, lng:-77.7442304}",
+            "description": "The park visitor center has a theater, exhibits, observation room, and museum store. The audiovisual program is a 26- minute orientation film narrated by James Earl Jones which is shown on the hour and the half hour. Interpretive talks are conducted daily by park rangers. During the summer season, ranger programs are expanded and scheduled more often. Check at the visitor center for a daily schedule.",
+            "parkCode": "anti",
+            "id": "75",
+            "directionsInfo": "The visitor center is located ten miles south of I-70, on Maryland Route 65.",
+            "directionsUrl": "http://www.nps.gov/anti/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/anti/planyourvisit/visitorcenters.htm",
+            "name": "Antietam National Battlefield Visitor Center"
+        },
+        {
+            "latLong": "{lat:38.6165621, lng:-109.6200139}",
+            "description": "The visitor center is open every day except December 25. Rangers are on duty to answer your questions. You can learn about the park with exhibits, a park movie, and a bookstore. Restrooms and drinking water are available.",
+            "parkCode": "arch",
+            "id": "71",
+            "directionsInfo": "The Arches Visitor Center is located just inside the entrance gate to Arches National Park.\n\nFrom Moab, Utah, drive 5 miles north on US 191. \nFrom I-70 (Crescent Junction), drive 28 miles south on US 191.\nFollow signs to Arches National Park.",
+            "directionsUrl": "http://www.nps.gov/arch/planyourvisit/directions.htm",
+            "url": "https://www.nps.gov/arch/planyourvisit/visitorcenters.htm",
+            "name": "Arches Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "Located in Crossville, just off Exit 320, on I-40, across from Stone Memorial High School.",
+            "parkCode": "biso",
+            "id": "44",
+            "directionsInfo": "Location: Crossville, just off Exit 320, on I-40, across from Stone Memorial High School.",
+            "directionsUrl": "http://www.nps.gov/biso/planyourvisit/visitorcenters.htm",
+            "url": "http://www.nps.gov/biso/planyourvisit/visitorcenters.htm",
+            "name": "Crossville Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "Facilities & Activities\nAsk a ranger what to do in the park; free public WiFi, restrooms; park permits.",
+            "parkCode": "biso",
+            "id": "45",
+            "directionsInfo": "Location: Rugby, off Highway 52, approximately 17 miles west of Jamestown, Tennessee.",
+            "directionsUrl": "http://www.nps.gov/biso/planyourvisit/visitorcenters.htm",
+            "url": "http://www.nps.gov/biso/planyourvisit/visitorcenters.htm",
+            "name": "Rugby Visitor Contact Station"
+        },
+        {
+            "latLong": "",
+            "description": "Facilities & Activities\nAsk a ranger what to do in the park; free public WiFi; restrooms.",
+            "parkCode": "biso",
+            "id": "46",
+            "directionsInfo": "Location: Located via Highways 1651 and 742.",
+            "directionsUrl": "",
+            "url": "http://www.nps.gov/biso/planyourvisit/visitorcenters.htm",
+            "name": "Helenwood Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "Exhibits\nThe Blue Heron Mining Community can be visited at any time to view historic structures and listen to audio programs.\n\nFacilities & Activities\nAsk a ranger what to do in the park; free public WiFi, bookstore; park permits; restrooms; vending machines, and concession stand.\n\nRailroad Ride\nThe Big South Fork Scenic Railway travels from the Stearns Depot to the Blue Heron Mining Community in a 45-minute trip. The train remains approximately an hour at Blue Heron before returning to Stearns.",
+            "parkCode": "biso",
+            "id": "47",
+            "directionsInfo": "Location: Located via Highways 1651 and 742.",
+            "directionsUrl": "",
+            "url": "http://www.nps.gov/biso/planyourvisit/visitorcenters.htm",
+            "name": "Blue Heron Interpretive Center"
+        },
+        {
+            "latLong": "",
+            "description": "Facilities\nAsk a ranger what to do in the park; restrooms; park permits.",
+            "parkCode": "biso",
+            "id": "49",
+            "directionsInfo": "Location: Stearns, approximately 0.25 of a mile west of Highway 27, just off Highway 92. Also located three miles south of Whitley City, and 18 miles north of Oneida, Tennessee.",
+            "directionsUrl": "",
+            "url": "http://www.nps.gov/biso/planyourvisit/visitorcenters.htm",
+            "name": "Stearns Visitor Contact Station"
+        },
+        {
+            "latLong": "",
+            "description": "Exhibits\nFocus on the recreational opportunities found within Big South Fork and throughout the seven surrounding counties.\n\nFacilities & Activities \nAsk a ranger what to do in the park. free public WiFi, bookstore; park permits; restrooms; vending machines, and ice sales.",
+            "parkCode": "biso",
+            "id": "42",
+            "directionsInfo": "Adjacent to Bandy Creek Campground; approximately 15 miles west of Oneida and 24 miles east of Jamestown, off Highway 297.",
+            "directionsUrl": "http://www.nps.gov/biso/planyourvisit/visitorcenters.htm",
+            "url": "http://www.nps.gov/biso/planyourvisit/visitorcenters.htm",
+            "name": "Bandy Creek Visitor Center"
+        },
+        {
+            "latLong": "{lat:42.3600779, lng:-71.0651631}",
+            "description": "Boston African American National Historic Site Rangers are stationed at the Museum of African American History throughout the day to provide historic talks and programs.",
+            "parkCode": "boaf",
+            "id": "29",
+            "directionsInfo": "The Museum of African American History is located at 46 Joy Street on Beacon Hill in downtown Boston.",
+            "directionsUrl": "http://www.nps.gov/boaf/index.htm",
+            "url": "http://www.nps.gov/boaf/planyourvisit/hours.htm",
+            "name": "Museum of African American History"
+        },
+        {
+            "latLong": "",
+            "description": "Explore the history of César E. Chávez and the farmworker movement through photographs, artifacts, and sites dedicated to his legacy. In the Memorial Garden, you will find his gravesite and a fountain honoring the memory of five workers. Roses in bloom year-round, including a variety named for Chávez, grace the garden. In the visitor center, watch films about his life, contemplate his unchanged office, and see exhibits and artwork. A bookstore offers additional information.",
+            "parkCode": "cech",
+            "id": "37",
+            "directionsInfo": "The monument is located near the small town of Keene, California on Highway 58. From Highway 58, take exit 138 toward Keene, then turn right on Woodford-Tehachapi Road. César E. Chávez National Monument will be on your left.",
+            "directionsUrl": "http://www.nps.gov/cech/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/cech/planyourvisit/basicinfo.htm",
+            "name": "César E. Chávez National Monument Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "The Great Falls of the Potomac have drawn people to the river's shore for centuries. To American Indians, a gathering place; to George Washington, an impediment to navigation; to thousands of visitors every year, an awe-inspiring site.\n\nThroughout the generations Great Falls Tavern continues a long tradition of hospitality. For more information please call 301-767-3714",
+            "parkCode": "choh",
+            "id": "60",
+            "directionsInfo": "From Washington DC: Take M Street to fork. Follow either MacArthur Blvd, the right fork or take Canal Road, the fork to the left.\nMacArthur Blvd.: Follow MacArthur until the entrance to the Great Falls section of the park, approximately 8 miles.\nCanal Road: Follow to Chain Bridge. At stop light continue straight. Canal Road changes into Clara Barton Parkway. Follow Clara Barton Parkway to the end. At the stop sign, turn left onto MacArthur Blvd., and follow it for 3.5 miles until it ends at the park.",
+            "directionsUrl": "https://www.nps.gov/choh/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/choh/planyourvisit/greatfallstavernvisitorcenter.htm",
+            "name": "Great Falls Tavern Visitor Center"
+        },
+        {
+            "latLong": "{lat:39.6007235, lng:-77.8200861}",
+            "description": "Situated at the confluence of the Conococheague Creek and the Potomac River, Williamsport was first settled in 1740. Williamsport is the only place on the canal where examples of major canal structures can be viewed within a half-mile stretch. A half-mile rewatered section of canal leads through the turning basin, under the only Railroad Lift Bridge on the canal, and continues to Lock House 44 and the adjacent lock. The Conocheague Aqueduct is located across from the turning basin.",
+            "parkCode": "choh",
+            "id": "61",
+            "directionsInfo": "From the East: Take I-270 north to 70 west to Hagerstown. Take I-81 north and south exit. (Take exit 26 toward Harrisburg/Roanoke). Merge onto I-81 south toward Roanoke. From I-81 take exit 2 and merge onto Potomac Street/US 11 south. Follow straight to visitor center at bottom of hill, (approximately 1.4 miles).\n For Additional directions, please see the website.",
+            "directionsUrl": "http://www.nps.gov/choh/planyourvisit/williamsportvisitorcenter.htm",
+            "url": "http://www.nps.gov/choh/planyourvisit/williamsportvisitorcenter.htm",
+            "name": "Williamsport Visitor Center"
+        },
+        {
+            "latLong": "{lat:35.1368171, lng:-81.8180957}",
+            "description": "Museum contains a reproduction 3-pounder cannon, other weapons of the Revolutionary War period, and exhibits.\n\"Cowpens: A Battle Remembered\" is an 18-minute video shown hourly in the museum. \nFiber-optic Map llustrates the Southern Campaign of the American Revolution and the battle tactics employed by Daniel Morgan at Cowpens. (13 minutes)\nSales Outlet operated by Eastern National offers books, postcards, and theme-related souvenirs.",
+            "parkCode": "cowp",
+            "id": "40",
+            "directionsInfo": "Cowpens National Battlefield is 3 miles west of Chesnee, 10 miles east of Gaffney, and 17 miles south of Spartanburg on SC Hwy 11. For more detailed information, please visit our webpage at http://www.nps.gov/cowp/planyourvisit/directions.htm.",
+            "directionsUrl": "",
+            "url": "",
+            "name": "Cowpens National Battlefield"
+        },
+        {
+            "latLong": "{lat:63.7308262, lng:-148.9171829}",
+            "description": "Open in summer only, 8 am–6 pm, this is the main visitor center near the park entrance. Here, you can watch the park film; check out a variety of exhibits about the natural and cultural history of the Denali area; and join a variety of ranger walks or talks. Backpackers may also receive their required, free permit to backpack in the park.\n\nIn fall, winter and spring, the Murie Science and Learning Center (MSLC) acts as the park's main visitor center.",
+            "parkCode": "dena",
+            "id": "23",
+            "directionsInfo": "Upon arriving in Denali, travel 1.5 miles down the road until you see signs for the Denali Visitor Center.",
+            "directionsUrl": "http://www.nps.gov/dena/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/dena/planyourvisit/the-denali-visitor-center.htm",
+            "name": "Denali Visitor Center"
+        },
+        {
+            "latLong": "{lat:63.431346, lng:-150.3113277}",
+            "description": "Eielson Visitor Center is open in summer only. Located at Mile 66 of the Denali Park Road, Eielson Visitor Center can be reached by most shuttle buses, and by the Kantishna Experience tour bus.\n\nFeatures include daily ranger-led programs, a small gallery of art inspired by Denali's natural wonders, and, on clear days, amazing views of Denali and the Alaska Range.",
+            "parkCode": "dena",
+            "id": "59",
+            "directionsInfo": "Eielson is located at Mile 66 of the Denali Park Road, and as such can only be accessed by visitors on certain buses, or visitors who are hiking / biking the road.",
+            "directionsUrl": "http://www.nps.gov/dena/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/dena/planyourvisit/the-eielson-visitor-center.htm",
+            "name": "Eielson Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "Located 7 miles north of Jensen, Utah on Highway 149, the Quarry Visitor Center is the gateway to the Quarry Exhibit Hall and the wall of dinosaur bones. Exhibits at the Quarry Visitor Center introduce the variety of resources and places to explore within the monument. This facility features a staffed information desk, a sales area for the Intermountain Natural History Association and a theater with a twelve-minute park film. During the summer, shuttle buses depart from here for the Quarry Exhibit Hall.",
+            "parkCode": "dino",
+            "id": "25",
+            "directionsInfo": "From Us Highway 40 in Jensen, Utah, take Utah State Highway 149 7 miles north into the monument. The turn to the visitor center parking lot is just past the entrance station",
+            "directionsUrl": "",
+            "url": "http://www.nps.gov/dino/planyourvisit/visitorcenters.htm",
+            "name": "Quarry Visitor Center"
+        },
+        {
+            "latLong": "{lat:35.9369537, lng:-75.7089393}",
+            "description": "The visitor center of Fort Raleigh National Historic Site, housing immersive exhibits on the Algonquian, the English, the Roanoke Island Freedmen's Colony, the Civil War Battle of Roanoke Island, and Reginald Fessenden. A 17-minute dramatic video on the interaction between the Algonquian and the English is displayed in the visitor center's theater.",
+            "parkCode": "fora",
+            "id": "32",
+            "directionsInfo": "Fort Raleigh National Historic Site is located on the north end of Roanoke Island, about 4 miles north of the town of Manteo, North Carolina, along US 64/264.",
+            "directionsUrl": "http://www.nps.gov/fora/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/fora/planyourvisit/placestogo.htm",
+            "name": "Lindsay Warren Visitor Center"
+        },
+        {
+            "latLong": "{lat:32.760108, lng:-79.857447}",
+            "description": "The Fort Moultrie Visitor Center is located at 1214 Middle Street, Sullivan's Island, SC. Museum exhibits and an orientation film are available daily from 9:00-5:00 during daylight saving time and 9:00-4:00 during eastern standard time.",
+            "parkCode": "fosu",
+            "id": "62",
+            "directionsInfo": "Follow SC-703 to Sullivan's Island, and turn right onto Middle Street. The visitor center is 1.5 miles on the right.",
+            "directionsUrl": "http://www.nps.gov/fosu/planyourvisit/fomohqdirections.htm",
+            "url": "http://www.nps.gov/fosu/planyourvisit/fomohqdirections.htm",
+            "name": "Fort Moultrie Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "The Fort Sumter Visitor Education Center is the primary departure point for the ferries to Fort Sumter. Museum exhibits and park rangers are available.",
+            "parkCode": "fosu",
+            "id": "63",
+            "directionsInfo": "",
+            "directionsUrl": "",
+            "url": "http://www.nps.gov/fosu/planyourvisit/tourboatdeparturelocations.htm",
+            "name": "Fort Sumter Visitor Education Center"
+        },
+        {
+            "latLong": "",
+            "description": "The visitor center is the yellow house that sits outside the historic fort.",
+            "parkCode": "fowa",
+            "id": "28",
+            "directionsInfo": "From I-95/495 take exit 3, Indian Head Highway South/MD 210. Travel about 4 miles to Fort Washington Road, turn right. The park is located at the end of the road.\n\nFrom Waldorf, MD: MD228 to Indian Head Highway/MD210 North. Turn left onto Old Fort Road. Continue to end of road, at the stop sign turn left onto Fort Washington Road, continue to park entrance.\n\nAfter entering the park, follow the road straight to the main parking lot.  The visitor center is the yellow building on the hill.",
+            "directionsUrl": "",
+            "url": "",
+            "name": "Fort Washington Park Visitor Center"
+        },
+        {
+            "latLong": "{lat:38.6762158, lng:-87.5356575}",
+            "description": "The George Rogers Clark National Historical Park Visitor Center is a great place to start your visit.  The visitor center contains exhibits about the early cultures of Vincennes, George Rogers Clark's march to Vincennes, and the construction of the George Rogers Clark Memorial.  It also offers a 30-minute introductory movie, \"Long Knives\" which shares the back story of George Rogers Clark and his military campaign.  Before going to the Clark Memorial, check with the ranger at the visitor center.",
+            "parkCode": "gero",
+            "id": "53",
+            "directionsInfo": "",
+            "directionsUrl": "",
+            "url": "http://www.nps.gov/gero/planyourvisit/things2do.htm",
+            "name": "Main Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "Located on the second floor of Glacier Bay Lodge in Bartlett Cove, 10 miles from Gustavus.\nStaffed daily in summer with park rangers. Stop by for exhibits, park information, trip planning, bookstore, reading area, hydrophone kiosk, interpretive programs, park films, brochures, and much more.",
+            "parkCode": "glba",
+            "id": "33",
+            "directionsInfo": "Located in Bartlett Cove, upstairs in the Glacier Bay Lodge.",
+            "directionsUrl": "http://www.nps.gov/glba/planyourvisit/visitorcenters.htm",
+            "url": "http://www.nps.gov/glba/planyourvisit/visitorcenters.htm",
+            "name": "Glacier Bay National Park Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "Located near the head of the public-use dock in Bartlett Cove, 10 miles from Gustavus. This facility provides trip planning information, boating and camping permits, and offers boater/camper orientation sessions for visitors heading into the wild backcountry of Glacier Bay. Stop by and meet a park ranger. \nOpen during summer months only.",
+            "parkCode": "glba",
+            "id": "34",
+            "directionsInfo": "Located near the head of the public dock in Bartlett Cove, 10 miles from the town of Gustavus.",
+            "directionsUrl": "http://www.nps.gov/glba/planyourvisit/visitorcenters.htm",
+            "url": "http://www.nps.gov/glba/planyourvisit/visitorcenters.htm",
+            "name": "Visitor Information Station - Backcountry Office"
+        },
+        {
+            "latLong": "{lat:43.751487, lng:-110.7223555}",
+            "description": "Harrison Crandall built this cabin in 1921 near the Cathedral Group Turnout as his studio. Today, the building displays two pieces of Crandall's artwork and an original WPA Poster of Jenny Lake. Other exhibits focus on the geology and evolution of the landscape. Visit this facility for trip planning information and boat permits. The nearby Jenny Lake Ranger Station provides backcountry permits. Shop the Grand Teton Association bookstore, attend a ranger program or begin your backcountry adventure.",
+            "parkCode": "grte",
+            "id": "41",
+            "directionsInfo": "Heading north from Jackson on US 26/89/191, turn left (west) at Moose Junction and continue eight miles north to South Jenny Lake Junction. Turn left (west) into the developed area.\nHeading south from Yellowstone on US 89/191/287, turn right (southwest) at Jackson Lake Junction and continue 12 miles south to South Jenny Lake Junction. Turn right (west) into the developed area.",
+            "directionsUrl": "http://www.nps.gov/grte/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/grte/planyourvisit/visitorcenters.htm",
+            "name": "Jenny Lake Visitor Center"
+        },
+        {
+            "latLong": "{lat:43.6533806, lng:-110.7186063}",
+            "description": "The grand expanse of the Teton Range rises above the visitor center. Inside, interwoven themes of place, people, preservation, mountaineering and Native American Indians encourage visitors to contemplate the past, present and future of this place. Visit this facility for trip planning information, backcountry or boating permits. Shop at the Grand Teton Association bookstore, enjoy the variety of exhibits and artwork, attend a ranger program or watch a movie about the park.",
+            "parkCode": "grte",
+            "id": "31",
+            "directionsInfo": "Located 12 miles north of Jackson, Wyoming just off US Highway 26/89/191. Turn west at Moose Junction onto the Teton Park Road. Continue for 0.5 mile and cross the Snake River. Turn left/south into the parking lot.",
+            "directionsUrl": "http://www.nps.gov/grte/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/grte/planyourvisit/hours.htm",
+            "name": "Craig Thomas Discovery & Visitor Center"
+        },
+        {
+            "latLong": "{lat:43.9031681, lng:-110.6436957}",
+            "description": "One of the surviving Mission 66 visitor centers, the Colter Bay Visitor Center provides great views of Jackson Lake. Inside, view 35 artifacts from the David T. Vernon Indian Arts Collection. The auditorium hosts ranger-led programs and shows a variety of park-related videos throughout the day. Visit this facility for trip planning information, backcountry or boating permits. Shop at the Grand Teton Association bookstore, attend a ranger-led program, or visit the nearby shops and restaurants.",
+            "parkCode": "grte",
+            "id": "43",
+            "directionsInfo": "Heading north on US 26/89/191, turn left (north) at Moran Junction and continue 10.5 miles on US 89/191/287 to the Colter Bay Village sign, turn left (west) and continue about one mile to the visitor center.\nHeading south on US 89/191/287 from Yellowstone National Park, continue 18.5 miles to the Colter Bay Village sign, turn right (west) and continue about one mile to the visitor center",
+            "directionsUrl": "http://www.nps.gov/grte/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/grte/planyourvisit/visitorcenters.htm",
+            "name": "Colter Bay Visitor Center"
+        },
+        {
+            "latLong": "{lat:43.752224, lng:-110.722272}",
+            "description": "In the 1930s, the Jenny Lake Ranger Station and Museum opened as the park’s first visitor facility. Today, climbing rangers provide backcountry safety information, climbing route conditions and perform mountain rescues. A small raised-relief map features the core backcountry area and other exhibits address backcountry risks. A safety video provides visitors with essential information. The ranger station issues backcountry permits to climbers and all other backcountry users, but does not have a sales area.",
+            "parkCode": "grte",
+            "id": "50",
+            "directionsInfo": "Heading north from Jackson on US 26/89/191, turn left (west) at Moose Junction and continue eight miles north to South Jenny Lake Junction. Turn left (west) into the developed area.\nHeading south from Yellowstone on US 89/191/287, turn right (southwest) at Jackson Lake Junction and continue 12 miles south to South Jenny Lake Junction. Turn right (west) into the developed area.",
+            "directionsUrl": "http://www.nps.gov/grte/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/grte/planyourvisit/visitorcenters.htm",
+            "name": "Jenny Lake Ranger Station"
+        },
+        {
+            "latLong": "{lat:44.106886, lng:-110.666099}",
+            "description": "The Flagg Ranch Information Station is located in the John D. Rockefeller, Jr. Memorial Parkway—the heart of the Greater Yellowstone Ecosystem. For visitors traveling south from Yellowstone National Park, Flagg Ranch is the first stop for trip planning information. This small wooden cabin is staffed daily during the peak summer season and includes a visitor information area, small sales area, exhibits depicting the Rockefeller legacy and restrooms.",
+            "parkCode": "grte",
+            "id": "51",
+            "directionsInfo": "Heading south on US 89/191/287, continue two miles south from the South Gate of Yellowstone National Park and turn right (west) at the Headwaters sign.\nHeading north on US 89/191/287, continue 22 miles north from Jackson Lake Junction and turn left (west) at the Headwaters sign.",
+            "directionsUrl": "http://www.nps.gov/grte/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/grte/planyourvisit/visitorcenters.htm",
+            "name": "Flagg Ranch Information Station"
+        },
+        {
+            "latLong": "{lat:43.626416, lng:-110.7752284}",
+            "description": "The Laurance S. Rockefeller Preserve Center provides the opportunity to learn about Mr. Rockefeller's vision for the area and his legacy of conservation stewardship. Exhibits engage visual, tactile and auditory senses through a poem by Terry Tempest Williams, audio recordings of Mr. Rockefeller, videos, photography, and a natural soundscape room. Visitors may relax in the resource room, attend a ranger program or strike out on a hike to Phelps Lake. The center does not have a sales area or offer permits.",
+            "parkCode": "grte",
+            "id": "48",
+            "directionsInfo": "The Preserve Center is NOT accessible to vehicles over 23.3 feet long or trailers.\nHeading north from Teton Village on WY 390, continue 3.2 miles from the Granite Entrance Gate and turn right (east) at the Preserve Center sign.\nHeading south from Moose on the Teton Park Road, turn south at the sign reading \"Wilson Road/Teton Village 9 miles.\" Continue 3.7 miles and turn left (east) at the Preserve Center sign.",
+            "directionsUrl": "http://www.nps.gov/grte/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/grte/planyourvisit/visitorcenters.htm",
+            "name": "Laurance S. Rockefeller Preserve Center"
+        },
+        {
+            "latLong": "",
+            "description": "Start your visit at the Visitor Center, where you can pick up the park map and guide. Park rangers are available to answer questions and help you get oriented. Exhibits and a 12-minute film tell about Herbert Hoover's childhood in West Branch and his later involvement in developing the park which commemorates his life. Books, educational items, and gifts are available for purchase.",
+            "parkCode": "heho",
+            "id": "36",
+            "directionsInfo": "Take exit 254 off Interstate 80 to West Branch, Iowa. The Visitor Center is 0.3 mile north of Interstate 80.",
+            "directionsUrl": "http://www.nps.gov/heho/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/heho/planyourvisit/visitorcenters.htm",
+            "name": "Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "The main park visitor center is located in the Seward small boat harbor and is open daily during the summer season.  The visitor center is closed during the winter months.\n\nThe visitor center provides opportunities to view the park film, an Alaska Geographic bookstore, and park rangers to help answer questions about the area.",
+            "parkCode": "kefj",
+            "id": "72",
+            "directionsInfo": "Once within the city limits of the town of Seward, turn left on S. Harbor Street (mile 1 of the Seward Highway - AK-9). Go one block, and turn right on Fourth Street. It will be the second building on the left.\n\nGoogle Map Coordinates: 60.1165108,-149.4405508",
+            "directionsUrl": "http://www.nps.gov/kefj/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/kefj/planyourvisit/visitorcenters.htm",
+            "name": "Kenai Fjords National Park Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "The Exit Glacier Nature Center is open daily during the summer season. It is closed during the winter. The nature center is the trailhead for all that the Exit Glacier area has to offer, including the Harding Icefield trail.  \n\nThe building includes exhibits about the Exit Glacier area, an Alaska Geographic bookstore, and park rangers to help answer questions about the area.",
+            "parkCode": "kefj",
+            "id": "73",
+            "directionsInfo": "Turn on to Herman Leirer Road (commonly called \"Exit Glacier Road\") at mile 3 of the Seward Highway - AK-9. Proceed 8.4 miles. The road will end at the parking lot for the nature center.\n\nGoogle Map Coordinates: 60.1782633,-149.6494389",
+            "directionsUrl": "http://www.nps.gov/kefj/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/kefj/planyourvisit/visitorcenters.htm",
+            "name": "Exit Glacier Nature Center"
+        },
+        {
+            "latLong": "{lat:47.5993543, lng:-122.3321132}",
+            "description": "Klondike Gold Rush National Historical Park is located in the historic Cadillac Hotel building.  Look for the Cadillac Hotel sign on South Jackson Street. The Visitor Center contains interactive exhibits and displays about the Klondike Gold Rush. Free video presentations are shown in the park's theater.",
+            "parkCode": "klse",
+            "id": "30",
+            "directionsInfo": "Located in the historic Cadillac Hotel building at the corner of 2nd Ave S and South Jackson Street. Look for the Cadillac Hotel sign on South Jackson Street and NPS arrowhead signs on both streets.",
+            "directionsUrl": "http://www.nps.gov/klse/planyourvisit/directions.htm",
+            "url": "https://www.nps.gov/klse/planyourvisit/visitor-center.htm",
+            "name": "Klondike Gold Rush Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "The Memorial Visitor Center, completed in 1943, was designed with two memorial halls and a connecting cloister. The Memorial Court features five sculptured panels, the work or E.H. Daniels, marking significant periods in the life of Abraham Lincoln. The park orientation film is shown every half hour from 8 a.m. to 1/2 hour before closing. Museum artifacts and exhibits portray the life of Abraham Lincoln. Learn about his family, boyhood, and frontier life in Indiana.",
+            "parkCode": "libo",
+            "id": "26",
+            "directionsInfo": "From Interstate 64, exit on US 231, (exit 57A).  Travel south on US 231 to Indiana Highway 162 (about 6 miles).  Take the Santa Claus/Gentryville exit.  Turn west (right) on Indiana Highway 162; go 1-1/2 miles to the park entrance on the right.",
+            "directionsUrl": "http://www.nps.gov/libo/planyourvisit/directions.htm",
+            "url": "https://www.nps.gov/libo/planyourvisit/visitorcenters.htm",
+            "name": "Memorial Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "We are fortunate to partner with Jacksonville State University; they provide a Visitor Center for the park. National Park Service Volunteers will greet you and help you plan your visit. Amenities include: Information desk, restrooms, movie, gift shop, trails, and picnic tables. Hours are 8 AM - 4 PM CST. Closed for some holidays, see website for details.",
+            "parkCode": "liri",
+            "id": "64",
+            "directionsInfo": "",
+            "directionsUrl": "",
+            "url": "http://www.jsu.edu/epic/canyoncenter/",
+            "name": "Little River Canyon Center"
+        },
+        {
+            "latLong": "",
+            "description": "Begin your journey down the Niobrara at the visitor center, where you may discover what makes this river so special through exhibits and a seven-minute video. Park rangers are on hand to answer questions, help you plan your trip, or give you a list of outfitters who will provide transportation and canoes, kayaks, or tubes.",
+            "parkCode": "niob",
+            "id": "27",
+            "directionsInfo": "The visitor center is located in Valentine, Nebraska, 76 miles south of I-90 (Murdo, SD exit) or 130 miles north of I-80 (North Platte, NE exit) via Hwy 83.",
+            "directionsUrl": "http://www.nps.gov/niob/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/niob/index.htm",
+            "name": "Niobrara National Scenic River Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "Open Wednesday-Sunday from 9 am to 4 pm, closed Monday and Tuesday. Museum contains a reproduction 3-pounder cannon, artifacts found on the battlefield, and other exhibits. \"Ninety Six: Crossroads\" is a 22-minute video shown on request.  Sales Outlet operated by Eastern National offers books, postcards, and theme-related souvenirs.",
+            "parkCode": "nisi",
+            "id": "57",
+            "directionsInfo": "2 miles south of Ninety Six, SC on Hwy 248. For more detailed information, please click on \"Directions Details\" below.",
+            "directionsUrl": "http://www.nps.gov/nisi/planyourvisit/directions.htm",
+            "url": "",
+            "name": "Ninety Six National Historic Site"
+        },
+        {
+            "latLong": "{lat:36.1062144, lng:-84.5985218}",
+            "description": "The visitor center has free WiFi, and offers exhibits on the river, its inhabitants, the cultural history of the area, and the recreational opportunities that the park provides.\n\nThe visitor center also offers an award-winning orientation film.\n\nA small bookstore is also included in the visitor center, which is open daily from 9:00-5:00 pm (ET), daily. The visitor center is closed Thanksgiving, December 25, and January 1.\n\nAddress:\n208 North Maiden Street\nWartburg, Tennessee, 37887",
+            "parkCode": "obed",
+            "id": "38",
+            "directionsInfo": "The Obed Wild & Scenic River Visitor Center is located at 208 North Maiden Street in downtown Wartburg, Tennessee. \n\nPlease use the link for more information on directions.",
+            "directionsUrl": "http://www.nps.gov/obed/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/obed/planyourvisit/visitorcenters.htm",
+            "name": "Obed Visitor Center"
+        },
+        {
+            "latLong": "{lat:32.8425869, lng:-83.6037798}",
+            "description": "The Visitor Center is open from 9:00 am-5:00 pm seven days a week except for Thanksgiving, Christmas Day, and New Year's Day",
+            "parkCode": "ocmu",
+            "id": "56",
+            "directionsInfo": "Take I-16 to exit 2, Turn left unto Coliseum Dr. stay in right lane turn right unto Emery Hwy go 1 mile and the park will be on your right",
+            "directionsUrl": "http://www.nps.gov/ocmu/directions",
+            "url": "http://www.nps.gov/ocmu",
+            "name": "Ocmulgee Visitor Center"
+        },
+        {
+            "latLong": "{lat:26.0167836, lng:-97.4789468}",
+            "description": "The visitor center features an exhibit area features interactive exhibits, artifacts, and Mexican War era military uniforms. The center also offers a 15-minute video—\"War on the Rio Grande.” The video gives an overview of the war and is available in English and Spanish. The visitor center includes a small book store with over 100 book titles and specialty items. Don’t forget to get your national parks passport book stamped! Ask for the stamp at the front desk.",
+            "parkCode": "paal",
+            "id": "35",
+            "directionsInfo": "Palo Alto Battlefield is located on Brownsville's north side near the city of Los Fresnos. It is located at the just north of the intersection of FM 1847 (Paredes Line Rd.) and FM 511/FM 550.",
+            "directionsUrl": "http://www.nps.gov/paal/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/paal/planyourvisit/things2do.htm",
+            "name": "Palo Alto Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "The Visitor Center at Scotts Bluff National Monument was built in 1935 but later additions took place in 1937 and 1949. It is currently undergoing a major renovation and expansion project and is expected to be completed in December 2019. A temporary Visitor Center is operational during the construction.",
+            "parkCode": "scbl",
+            "id": "70",
+            "directionsInfo": "From Gering, head west on M Street. The street name changes to Old Oregon Trail after crossing Five Rocks Road.\nFrom Scottsbluff, head south on Avenue I. The street name changes to Five Rocks Road after entering Gering. Turn right (west) on Old Oregon Trail.",
+            "directionsUrl": "",
+            "url": "http://www.nps.gov/scbl",
+            "name": "Scotts Bluff National Monument Visitor Center"
+        },
+        {
+            "latLong": "{lat:35.8806525, lng:-86.4348727}",
+            "description": "The Stones River National Battlefield visitor center is open from 9 AM to 5 PM daily except for Thanksgiving and December 25th. The visitor center offers a museum, a movie about the battle, and a bookstore.",
+            "parkCode": "stri",
+            "id": "68",
+            "directionsInfo": "From Interstate 24 - Take Exit 76 and turn left (eastbound) or right (westbound) onto Medical Center Parkway. Turn left onto Thompson Lane. Turn left at the park entrance at 1563 N. Thompson Lane. Follow the tour road to the visitor center.\n\nFrom Interstate 40 - Take Exit 235 onto TN 840. Take Exit 55 onto US 41/TN 70 and follow the signs for Murfreesboro. Turn right onto Thompson Lane at the first traffic light. Turn right at the park entrance at 1563 N. Thompson Lane.",
+            "directionsUrl": "http://www.nps.gov/stri/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/stri/planyourvisit/visitorcenters.htm",
+            "name": "Visitor Center"
+        },
+        {
+            "latLong": "{lat:38.4321722, lng:-96.5583489}",
+            "description": "Begin your visit to the preserve at the visitor center, complete with 10-minute orientation video, exhibits, restrooms, and drinking fountains. The visitor center is located on the left side of the breezeway.",
+            "parkCode": "tapr",
+            "id": "76",
+            "directionsInfo": "The preserve is located in northern Chase County, Kansas 2 miles north of intersection U.S. Hwy 50 and Flint Hills National Scenic Byway 177 (K-177) west of Strong City. Watch for brown attraction signs.\n\n2 miles north of Strong City, KS on K-177\n16 miles west of Emporia, KS on U.S. Hwy 50 and 2 miles north on K-177\n17 miles south of Council Grove, KS on K-177\n85 miles northeast of Wichita on I-35, U.S. Hwy 50, and K-177\n60 miles southwest of Topeka on I-335 (Kansas Turnpike) to Em",
+            "directionsUrl": "",
+            "url": "http://www.nps.gov/tapr",
+            "name": "Tallgrass Prairie National Preserve"
+        },
+        {
+            "latLong": "{lat:46.9164917, lng:-103.5261947}",
+            "description": "Rangers staff the desk, assist visitors with trip planning, and issue backcountry permits. Theodore Roosevelt's Maltese Cross Cabin, located just outside, is open for self-guided tours year-round. Ranger-led cabin tours are offered in the summer. The park film, Refuge of the American Spirit, shows in the theater. A bookstore sells books, postcards, and more. A museum houses artifacts from Theodore Roosevelt's presidency and time in the badlands.",
+            "parkCode": "thro",
+            "id": "52",
+            "directionsInfo": "The South Unit Visitor Center is located at the entrance to the park's scenic loop drive in the town of Medora, ND.",
+            "directionsUrl": "http://www.nps.gov/thro/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/thro/planyourvisit/visitorcenters.htm",
+            "name": "South Unit Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "The main starting point for visiting Valley Forge National Historical Park. The Visitor Center is open 362 days a year. The Visitor Center is closed all day on Thanksgiving, Christmas, and New year's Day.",
+            "parkCode": "vafo",
+            "id": "24",
+            "directionsInfo": "",
+            "directionsUrl": "",
+            "url": "",
+            "name": "Valley Forge Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "Located on the shore of Black Bay with views across the water to the Kabetogama Peninsula. The Rainy Lake Visitor Center is open year-round, although hours of operation vary with the season.  This visitor center serves people in the northern part of the park and is located 11 miles East on Highway 11 from International Falls, MInnesota. The visitor center offers an exhibit area, displays, a bookstore, a staffed information desk, a children's activity table, and a theater for viewing the park film.",
+            "parkCode": "voya",
+            "id": "65",
+            "directionsInfo": "11 miles East on Highway 11 from International Falls, Minnesota",
+            "directionsUrl": "http://www.nps.gov/voya/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/voya/planyourvisit/visitorcenters.htm",
+            "name": "Rainy Lake Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "The Ash River Visitor Center is located in the historic Meadwood Lodge pictured above. Take a moment to explore this historic, rustic building. Watch your head, as some interior doorways were constructed for shorter individuals.",
+            "parkCode": "voya",
+            "id": "69",
+            "directionsInfo": "Located 28 miles south of International Falls, Minnesota, 11 miles off of Hwy 53.",
+            "directionsUrl": "http://www.nps.gov/voya/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/voya/planyourvisit/visitorcenters.htm",
+            "name": "Ash River Visitor Center"
+        },
+        {
+            "latLong": "",
+            "description": "Nestled  along the south west shoreline of Kabetogama Lake, within the community of Kabetogama.  The Kabetogama Lake Visitor Center is open during the warm, summer months only.",
+            "parkCode": "voya",
+            "id": "67",
+            "directionsInfo": "Located 25 miles south of International Falls just off of Highway 53.",
+            "directionsUrl": "http://www.nps.gov/voya/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/voya/planyourvisit/visitorcenters.htm",
+            "name": "Kabetogama Lake Visitor Center"
+        },
+        {
+            "latLong": "{lat:41.2565092, lng:-73.4564455}",
+            "description": "Weir Farm National Historic Site is the only national park dedicated to American painting. \nWhen the visitor center is open, art supplies are available, free to borrow, so visitors can participate in a tradition of artists painting in the landscape that dates back to 1882. \nVisitors are also encouraged to take part in one of three Junior Ranger programs, stop by the visitor center to find out more. \nRanger-led tours of the Weir House leave from the visitor center Wednesday-Sunday, May till October.",
+            "parkCode": "wefa",
+            "id": "39",
+            "directionsInfo": "If you are coming to Weir Farm National Historic Site as part of a group that will require three or more vehicles, please call in advance to arrange a group visit.\n\n- Take Route 7 until you reach the intersection with Route 102 West (Ridgefield/Wilton border).\n- Turn onto Route 102 West at a traffic light.\n- Take 2nd left onto Old Branchville Road.\n- Turn left at first stop sign onto Nod Hill Road.\n- Follow Nod Hill Road one mile; continue straight after reaching Pelham Lane to 735 Nod Hill Road",
+            "directionsUrl": "http://www.nps.gov/wefa/planyourvisit/directions.htm",
+            "url": "http://www.nps.gov/wefa/planyourvisit/things2do.htm",
+            "name": "Burlingham House Visitor Center"
+        }
+    ],
+    "limit": "50",
+    "start": "1"
+}

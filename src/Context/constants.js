@@ -1,0 +1,7 @@
+export const SET_PARKS = 'SET_PARKS';
+
+export const SET_CAMPGROUNDS = 'SET_CAMPGROUNDS';
+
+export const SET_EVENTS = 'SET_EVENTS';
+
+export const SET_VISITOR_CENTERS = 'SET_VISITOR_CENTERS';
