@@ -1,0 +1,4 @@
+var config = {
+    MY_GOOPLEMAP_KEY : 'AIzaSyDRrdEjbVKWHq84WmvIHROwdyHJyEVTpPw',
+    GOOGLE_SECRET_KEY: 'ABC123DEF456'
+}

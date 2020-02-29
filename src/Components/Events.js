@@ -9,7 +9,7 @@ const Events = (props) => {
     
     let eventsForSelectedPark = [];
     if (events){
-        eventsForSelectedPark = events.filter((event) => props.match.params.id == event.parkName);
+        eventsForSelectedPark = events.filter((event) => props.match.params.id === event.parkName);
     }
    
     let EventsContent = eventsForSelectedPark.map((event) =>{
@@ -19,8 +19,6 @@ const Events = (props) => {
             <h4>Location: {event.location}</h4>
             <h4>Date(s): {event.dates[0]}, {event.dates[1]}, {event.dates[2]}, {event.dates[3]}</h4>
             <h4>Time: {event.startTime} - {event.endTime}</h4>
-            <h4>About the event: </h4>
-            <h4>{event.description}</h4>
             <br></br>
             <br></br>
             </>

@@ -17,7 +17,7 @@ const Campgrounds = (props) => {
             }
         })
     
-        campgroundForSelectedPark = campgrounds.filter((campground) => campgroundsParkCode == campground.parkCode);
+        campgroundForSelectedPark = campgrounds.filter((campground) => campgroundsParkCode === campground.parkCode);
 
     }
 

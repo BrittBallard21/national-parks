@@ -16,7 +16,7 @@ const VisitorCenters = (props) => {
             }
         })
     
-        visitorCenterForSelectedPark = visitorCenters.filter((center) => visitorCenterParkCode == center.parkCode);
+        visitorCenterForSelectedPark = visitorCenters.filter((center) => visitorCenterParkCode === center.parkCode);
 
     }
 

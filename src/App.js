@@ -1,6 +1,6 @@
 import React,{useState} from 'react';
 import './App.css';
-import { Switch, Route, Redirect } from 'react-router-dom';
+import { Switch, Route } from 'react-router-dom';
 import GoogleMap from './Components/GoogleMap';
 import InitalState from './Context/InitialState';
 import Reducer from './Context/reducers';
@@ -31,10 +31,10 @@ function App() {
     <StateProvider initialState={InitalState} reducer= {Reducer}>
       <div className="App">
         <ParksApi />
-        <BrowserRouter basename = {`${process.env.PUBLIC_URL}`}>
+        <BrowserRouter>
         <Navbar  clickedPark={clickedPark} />
         <Switch>
-            <Route exact path="/" component={Home} />
+            <Route exact path="/" render={() => Home}/>
             <Route exact path="/park-information/:id" render={(renderProps) => <ParkInformation {...renderProps} />} />
             <Route path="/park-information/:id/campgrounds" render={(renderProps) => <Campgrounds {...renderProps} />} />
             <Route path="/park-information/:id/events" render={(renderProps) => <Events {...renderProps} />} />
